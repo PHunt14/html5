@@ -4,7 +4,7 @@
 
 ### Case Study Tasks
 
-1. Create an external style sheet named `javajam.css` that configues the color and text for the javajam website
-2. Modify the Home page to utilize the new external style sheet to configure colors and fonts.
-3. Modify the Menu page to be consistent with the Home page.
-4. Configure centered page layout
+[x] Create an external style sheet named `javajam.css` that configues the color and text for the javajam website
+[x] Modify the Home page to utilize the new external style sheet to configure colors and fonts.
+[] Modify the Menu page to be consistent with the Home page.
+[] Configure centered page layout

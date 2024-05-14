@@ -14,3 +14,7 @@ footer {background-color: #ccaa66;
     font-size: .6em;
     text-align: center;
     font-style: italic;}
+
+#wrapper {width: 80%; 
+    margin-left: auto;
+    margin-right: auto;}

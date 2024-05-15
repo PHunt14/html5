@@ -1,7 +1,7 @@
 # html5
 HTML5 exercises
 
-Materials
+## Materials
 
 >*Web Development & Design Foundations with HTML6*
 >
@@ -11,3 +11,5 @@ Materials
 >
 >_Copyright 2013_
 
+## Additional Resources
+[css-validator](https://jigsaw.w3.org/css-validator/)

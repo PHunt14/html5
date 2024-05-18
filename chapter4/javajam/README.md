@@ -1,10 +1,10 @@
 # JavaJam Coffee House
 
-## Chapter 3
+## Chapter 4
 
 ### Case Study Tasks
 
-- [x] Create an external style sheet named `javajam.css` that configues the color and text for the javajam website
-- [x] Modify the Home page to utilize the new external style sheet to configure colors and fonts.
-- [x] Modify the Menu page to be consistent with the Home page.
-- [x] Configure centered page layout
+- [] Modify the home page to display a logo image, a JPEG image, and a content div.
+- [] Modify the menu page to be consistent with the home page.
+- [] Create a new Music page
+- [] Modify the style rules in the javajam.css file as needed

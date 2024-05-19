@@ -7,4 +7,4 @@
 - [x] Modify the home page to display a logo image, a JPEG image, and a content div.
 - [x] Modify the menu page to be consistent with the home page.
 - [x] Create a new Music page
-- [] Modify the style rules in the javajam.css file as needed
+- [x] Modify the style rules in the javajam.css file as needed

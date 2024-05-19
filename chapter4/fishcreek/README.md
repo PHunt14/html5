@@ -4,7 +4,7 @@
 
 ### Case Study Tasks
 
-- [] Create an external style sheet named `fishcreek.css` that configues the color and text for the javajam website
-- [] Modify the Home page to utilize the new external style sheet to configure colors and fonts.
-- [] Modify the Services page to be consistent with the Home page.
-- [] Configure centered page layout
+- [x] Modify he home page to display a logo image and navigation image links.
+- [x] Modify the services page to be consistent with the home page.
+- [x] Create a new Ask the Vet page.
+- [x] Modify the style rules in fishcreek.css file as needed.

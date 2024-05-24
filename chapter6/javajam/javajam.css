@@ -1,25 +1,31 @@
+header {background-color: #ccaa66;
+    color: #000000;
+    text-align: center;
+    margin: 0;}
+
 body {background-color: #ffffcc;
     background-image: url(resources/background.jpg);
     color: #330000;
     font-family: Arial, Verdana, sans-serif;}
-
-h1 {background-color: #ccaa66;
-    color: #000000;
-    text-align: center;}
 
 h2 {background-color: #ccaa66;
     padding-left: 10px;
     padding-bottom: 5px;
     font-size: 1.2em;}
 
-nav {text-align: center;}
+nav {float: left;
+    width: 100px;
+    text-align: center;
+    padding-top: 10px;}
 
 footer {background-color: #ccaa66;
     color: #000000;
     font-size: .6em;
     text-align: center;
     font-style: italic;
-    padding: 10px;}
+    padding-top: 20px;
+    padding-bottom: 20px;
+    clear: float;}
 
 #wrapper {width: 80%; 
     margin-left: auto;
@@ -28,9 +34,28 @@ footer {background-color: #ccaa66;
     min-width: 700px;
     box-shadow: drop-shadow(5px 5px 5px #888888);}
 
-#content {padding: 25px;}
+#content {padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    background-color: #f2eab7;
+    color: #000000;}
+
+#floatRight {float: right;
+    padding-left: 20px;}
 
 #detail {padding-left: 20%;
     padding-right: 20%;}
 
 img {border: none;}
+
+#nav a {text-decoration: none;
+    padding-bottom: 15px;}
+
+#nav a:link {color: #996633;}
+#nav a:hover {color: #330000;}
+#nav a:visited {color: #ccaa66;}
+#nav ul {list-style-type: none;}
+
+

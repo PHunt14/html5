@@ -8,10 +8,14 @@ body {background-color: #ffffcc;
     color: #330000;
     font-family: Arial, Verdana, sans-serif;}
 
-h2 {background-color: #ccaa66;
-    padding-left: 10px;
-    padding-bottom: 5px;
-    font-size: 1.2em;}
+h2 {text-transform: uppercase;
+    background-color: #ffffcc;
+    color: #663300;
+    font-size: 1.2em;
+    border-bottom: 1px solid #000000;
+    padding: 5px 0 0 5px;
+    margin-right: 20px;
+    clear: left;}
 
 nav {float: left;
     width: 100px;
@@ -52,10 +56,13 @@ img {border: none;}
 
 #nav a {text-decoration: none;
     padding-bottom: 15px;}
-
 #nav a:link {color: #996633;}
 #nav a:hover {color: #330000;}
 #nav a:visited {color: #ccaa66;}
 #nav ul {list-style-type: none;}
 
+#floatLeft {float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;}
 
+#clear {clear: left;}

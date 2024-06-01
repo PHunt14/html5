@@ -1,23 +1,55 @@
-body {background-color: #6699ff;
+body { background-image: url("resources/gradientBlue2.jpeg");
+    /* background-repeat: no-repeat; */
+    background-color: #6699ff;
     color: #d5e3ff;
     font-family: Arial, Verdana, sans-serif;}
 
-h1 {text-align: center;}
+header {
+    background-color: #000066;
+    text-align: center;
+    padding: 10px;
+}
+
+#leftcolumn {
+    float: left;
+    width: 150px;
+}
+#leftcolumn ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+#leftcolumn a {
+    text-decoration: none;
+}
+#leftcolumn a:link {
+    color: #3262a3;}
+
+#rightcolumn {
+    margin-left: 180px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
 
 nav {font-weight: bold;}
 
 footer {font-size: .7em;}
 
-.category {background-color: #6699ff;
+.category {
     color: #003366;
     font-size: 1.1em;
     font-weight: bold;
-    text-shadow: 1px 1px 1px #666;}
+    text-shadow: 1px 1px 1px #666;
+}
 
-#wrapper {width: 700px; 
+#wrapper {
+    width: 80%;
+    min-width: 700px; 
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+    background-color: #ffffff;
+    color: #000066;
+}
 
-img {border: none;}
-
-#main {text-align: center;}
+img {
+    border: none;
+}

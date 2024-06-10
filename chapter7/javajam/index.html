@@ -2,12 +2,15 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="javajam.css" />
+    <link rel="stylesheet" href="javajammobile.css" media="only screen and (max-width: 480px)"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8" />
     <title>JavaJam Coffee House</title>
 </head>
 <body>
     <div id="wrapper">
         <header><img src="resources/javajamlogo.jpg" alt="JavaJam Coffee House" width="250" height="100"></header>
+        <h1 id="header">JavaJam Coffee House</h1>
         <div id="nav">
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -25,7 +28,8 @@
                 <li>Open Mic Night</li>
             </ul>
             <div>
-                <p>12312 Main Street<br>Mountain Home, CA 93923<br>1-888-555-5555</p>
+                <p>12312 Main Street<br>Mountain Home, CA 93923<br><span id="desktop">1-888-555-5555</span></p>
+                <a id="mobile" href="tel:1-888-555-5555">1-888-555-5555</a>
             </div>
         </div>
         <footer>
